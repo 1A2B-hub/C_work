@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 
-int man()
+int main()
 {
  printf("Hello Git");
  
